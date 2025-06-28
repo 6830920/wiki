@@ -3,11 +3,18 @@
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
-        "tiddlywiki/highlight"
+        "tiddlywiki/highlight",
+        "tiddlywiki/chinese"
     ],
     "themes": [
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
+    ],
+    "users": [
+        {
+            "username": "admin",
+            "password": "wodemima"
+        }
     ],
     "build": {
         "index": [
